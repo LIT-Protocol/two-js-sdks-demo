@@ -1,0 +1,21 @@
+{
+  "name": "two-js-sdks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@lit-protocol/lit-node-client-nodejs": "^3.2.5",
+    "ethers": "6",
+    "siwe": "^2.1.4"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+}
